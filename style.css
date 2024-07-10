@@ -1,0 +1,58 @@
+*
+
+
+
+
+
+/* .wrapper
+
+.parent{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    background-color: rgb(206, 216, 25);
+}
+
+.child{ 
+    width: 50px;
+    height: 50px;
+    border: 1px dashed green;
+    background: color #398ced; ;
+}
+.neighbor {
+    width: 300px;
+    height: 150px;
+    border: 2px dashed blue;
+}
+.wrapper> .child:hover{
+    background-color: black;
+}
+
+
+.show-block {}
+
+.block {
+    font-size: 0;
+}
+
+.show-block:hover + .block{
+    color: red;
+    font-size: 16px;
+}
+ 
+.block{
+    display: none;
+} */
+
+.block{
+    border: 1px solid black;
+    display:inline-block;
+}
+
+.block-1 {
+    padding: 100px 20px 30px 49px;
+}
+
+.block-2 {
+    padding: 20px;
+}
